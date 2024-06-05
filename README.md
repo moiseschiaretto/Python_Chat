@@ -38,7 +38,7 @@ Analisar a documentação da API do WhatsApp Web e elaborar um outro método de 
 ****
 
 
-### Importante
+## Importante
 
 **- Constar na mesma pasta do Projento APP os seguintes arquivos:**
 
@@ -48,8 +48,18 @@ Analisar a documentação da API do WhatsApp Web e elaborar um outro método de 
 
 - **log_erros.csv**, arquivo de log para armazenar o candidato/nome e telefone que não foi enviada a mensagem em caso de erro.
 
-### IDE PyCharm
 
-# É necessário instalar as seguintes biliotecas neste Projeto App do Python:
-# openpyxl
-# pyautogui
+## Arquivo 'requeriments.txt'
+
+Constam todas as 'bibliotecas' do projeto para serem instaladas.
+
+- A biblioteca openpyxl em Python é usada para manipular com arquivos Excel (.xlsx).
+
+- A biblioteca PyAutoGUI em Python permite automatizar interações com o mouse e o teclado, facilitando tarefas de automação de GUI.
+
+
+### requeriments.txt
+
+openpyxl>==3.1.3
+
+pyautogui>==0.9.54
