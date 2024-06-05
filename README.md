@@ -6,7 +6,7 @@
 
 **Objetivo:**
 
-- Enviar uma Massa de Dados de Mensagens personalizadas, via Whatsapp, para os "nomes" e "telefones" informados.
+- Enviar uma Massa de Dados de Mensagens personalizadas, via Whatsapp Web, para os "nomes" e "telefones" informados.
 
 
 <br>
@@ -58,9 +58,22 @@ Constam todas as 'bibliotecas' do projeto para serem instaladas.
 
 - A biblioteca PyAutoGUI em Python permite automatizar interações com o mouse e o teclado, facilitando tarefas de automação de GUI.
 
-
-### requeriments.txt
+```
 
 openpyxl>==3.1.3
 
 pyautogui>==0.9.54
+
+```
+<br>
+
+### Execução enviando as mensagens via Whatsapp Web
+<br>
+
+<img width="680" alt="02_MSG_Enviada_Chat_Whatsapp_Web" src="https://github.com/moiseschiaretto/Python_Chat/assets/84775466/cdf43452-0ffc-4c79-9d8e-20ff31e5999c">
+
+
+<br>
+
+
+
