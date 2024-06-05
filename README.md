@@ -29,14 +29,11 @@
 
 **1.** Este é um dos métodos de enviar mensagem no WhatsApp em massa, ou seja, para várias pessoas / candidatos.
 
-Não é a forma mais indicada porque, neste momento de envio de mensagens NÃO É ACONSELHÁVEL UTILIZAR O NOTEBOOK / A MÁQUINA, senão o sistema se perde!
+Não é a forma mais indicada porque, neste momento de envio de mensagens não é aconselhável utilizar o notebook / a máquina, senão o sistema se perde!
 
-**2** O melhor método é através da API do WhatsApp
+**2. _Ponto de melhoria:_** utilizar o método de envio de mensagens através da API do WhatsApp Web.
 
-Analisar a documentação da API do WhatsApp Web e elaborar um outro método de envio de mensagens em massa.
-
-
-****
+_Analisar a documentação da API do WhatsApp Web e elaborar um outro método de envio de mensagens em massa._
 
 
 ## Importante
@@ -74,6 +71,4 @@ pyautogui>==0.9.54
 
 
 <br>
-
-
 
