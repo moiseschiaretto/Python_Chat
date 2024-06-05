@@ -6,7 +6,7 @@
 
 **Objetivo:**
 
-- Enviar uma Massa de Dados de Mensagens personalizadas, via Whatsapp Web, para os "nomes" e "telefones" informados.
+- Enviar uma Massa de Dados de Mensagens personalizadas, **via Whatsapp Web**, para os "nomes" e "telefones" informados.
 
 
 <br>
