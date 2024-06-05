@@ -20,7 +20,8 @@
 ## Estrutura do Projeto "Python_Chat"
 <br>
 
-<img width="205" alt="01_Estrutura_Projeto" src="https://github.com/moiseschiaretto/Python_Chat/assets/84775466/e5cec3d9-a338-4ff3-97c4-3c9838b56a7f">
+<img width="205" alt="01_Estrutura_Projeto" src="https://github.com/moiseschiaretto/Python_Chat/assets/84775466/a882a52a-2aee-402e-b871-b0147830d968">
+
 
 
 ## Sobre o "Projeto chat", envio de mensagens via Whatsapp Web
